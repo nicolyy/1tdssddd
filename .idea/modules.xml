@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/01-Vetores/01-Vetores.iml" filepath="$PROJECT_DIR$/01-Vetores/01-Vetores.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02-Collections/02-Collections.iml" filepath="$PROJECT_DIR$/02-Collections/02-Collections.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/ads.fiap.java.iml" filepath="$PROJECT_DIR$/.idea/ads.fiap.java.iml" />
+    </modules>
+  </component>
+</project>
